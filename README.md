@@ -1,2 +1,2 @@
-# curso_ebac_frontend
+# itch.oi
 https://ebac-games-shop-theta.vercel.app/
